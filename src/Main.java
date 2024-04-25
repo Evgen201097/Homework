@@ -165,6 +165,5 @@ public class Main {
         double yearlyIncomeKristina = newKristina * 12;
         System.out.println("Новая зарплата Кристины: " + newKristina + " рублей");
         System.out.println("Годовой доход Кристины после повышения: " + yearlyIncomeKristina + " рублей");
-
     }
 }
